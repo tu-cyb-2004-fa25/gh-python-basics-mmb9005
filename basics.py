@@ -20,7 +20,7 @@ is_student = False
 # Now it is your turn, fill in these variables with different data (maybe about you, but it doesn't have to be)
 age = 19
 name = "Mason"
-height = 5.42
+height = 5.416
 is_student = True
 
 # We can also do aritmetic in Python, with variables or actual numbers
