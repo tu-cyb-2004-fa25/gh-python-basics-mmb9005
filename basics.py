@@ -5,7 +5,7 @@
 # it infers it from the data we give it.
 
 # This is a comment line.. Put your name on the following line, starting with a #
-
+# Mason Buras
 
 # Integer
 age = 50
@@ -18,10 +18,10 @@ is_student = False
 
 
 # Now it is your turn, fill in these variables with different data (maybe about you, but it doesn't have to be)
-age = 
-name = 
-height = 
-is_student = 
+age = 19
+name = "Mason"
+height = 5.42
+is_student = True
 
 # We can also do aritmetic in Python, with variables or actual numbers
 age_in_five_years = age + 5
